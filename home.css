@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1184px;
+  min-height: 1047px;
 }
 
 .u-section-1 .u-text-1 {
@@ -63,23 +63,13 @@
   font-size: 1.25rem;
   letter-spacing: 1px;
   background-image: none;
-  margin: -66px auto 0 579px;
+  margin: -66px auto 60px 579px;
   padding: 15px 233px 15px 232px;
-}
-
-.u-section-1 .u-btn-5 {
-  background-image: none;
-  font-size: 1.25rem;
-  font-weight: 700;
-  text-transform: none;
-  letter-spacing: normal;
-  margin: 62px auto 60px;
-  padding: 15px 227px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1114px;
+    min-height: 920px;
   }
 
   .u-section-1 .u-text-1 {
@@ -122,15 +112,13 @@
     padding-right: 168px;
     padding-left: 167px;
   }
-
-  .u-section-1 .u-btn-5 {
-    margin-top: 60px;
-    padding-left: 162px;
-    padding-right: 162px;
-  }
 }
 
 @media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 951px;
+  }
+
   .u-section-1 .u-text-1 {
     margin-top: 169px;
     margin-left: 0;
@@ -173,17 +161,11 @@
     padding-right: 130px;
     padding-left: 129px;
   }
-
-  .u-section-1 .u-btn-5 {
-    margin-top: 59px;
-    padding-left: 124px;
-    padding-right: 124px;
-  }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1059px;
+    min-height: 979px;
   }
 
   .u-section-1 .u-text-1 {
@@ -223,16 +205,11 @@
     padding-right: 160px;
     padding-left: 159px;
   }
-
-  .u-section-1 .u-btn-5 {
-    margin-top: 15px;
-    padding: 14px 154px 16px;
-  }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1025px;
+    min-height: 992px;
   }
 
   .u-section-1 .u-text-1 {
@@ -268,18 +245,8 @@
   }
 
   .u-section-1 .u-btn-4 {
-    margin-top: -154px;
-    margin-left: 0;
-    margin-right: 0;
+    margin: -154px 0 92px;
     padding: 14px 123px 14px 122px;
-  }
-
-  .u-section-1 .u-btn-5 {
-    border-style: none;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    margin: 122px -1px 30px;
-    padding: 13px 115px 15px;
   }
 } .u-section-2 {
   background-image: none;
